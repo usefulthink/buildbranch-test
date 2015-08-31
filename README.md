@@ -1,4 +1,6 @@
-# webvjs.com
+# Web VJ Group
+Audio visual browser shizzle
+
 ## Who are you?
 We're a group of web devs who got together due to a common love of all things audio, visual and MIDI \o/
 
