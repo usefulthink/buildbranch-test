@@ -59,9 +59,16 @@ $brandThree: hsla(53, 77%, 55%, 1);
   background-size:3px 3px, 20px 20px;
 }
 
+// LAYOUT ~~~~~~~~~~~~~~~~~
 // sizing
 $verticalSpace: 1.5em;
 $gutter: 1.5em;
+
+.wrapper {
+  display: block;
+  max-width: 880px;
+  margin: 0px auto;
+}
 
 // screen sizes
 $screenBig: 980px;
