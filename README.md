@@ -12,3 +12,16 @@ It's still early days, so we're still coming up with a zillion ideas a minute! W
 
 ## This all sounds gravy, how do I get involved?
 Join our Slack! We thought it the best place to start, just to come and chat... even if it's just to help each other out with some of the APIs. We'll be super excited to have you!
+
+# Site set up
+
+- Clone repo
+- `npm install`
+- `node index.js`
+- localhost:8080
+- Branch
+- Edit the things
+- PR
+- DEPLOY CHANGES -> Site runs off gh-pages branch. To deploy run `npm run deploy`
+- If you break the site @Rumyra will come after you
+
